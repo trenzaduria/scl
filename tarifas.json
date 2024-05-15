@@ -1,958 +1,122 @@
 {
-	"Alhué": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Buín": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Calera de Tango": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Cerrillos": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Cerro Navia": {
-		"zona": 3,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 5490,
-				"express": 7990
-			},
-			"50": {
-				"normal": 9990,
-				"express": 7990
-			},
-			"100": {
-				"normal": 8990,
-				"express": 11990
-			},
-			"300": {
-				"normal": 12990,
-				"express": 12990
-			},
-			"400": {
-				"normal": 13990,
-				"express": 18990
-			}
-		}
-	},
-	"Colina": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Conchalí": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Curacaví": {
-		"zona": null,
-		"enabled": 0
-	},
-	"El Bosque": {
-		"zona": 3,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 5490,
-				"express": 7990
-			},
-			"50": {
-				"normal": 9990,
-				"express": 7990
-			},
-			"100": {
-				"normal": 8990,
-				"express": 11990
-			},
-			"300": {
-				"normal": 12990,
-				"express": 12990
-			},
-			"400": {
-				"normal": 13990,
-				"express": 18990
-			}
-		}
-	},
-	"El Monte": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Estación Central": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Huechuraba": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Independencia": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Isla de Maipo": {
-		"zona": null,
-		"enabled": 0
-	},
-	"La Cisterna": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"La Florida": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"La Granja": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"La Pintana": {
-		"zona": 3,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 5490,
-				"express": 7990
-			},
-			"50": {
-				"normal": 9990,
-				"express": 7990
-			},
-			"100": {
-				"normal": 8990,
-				"express": 11990
-			},
-			"300": {
-				"normal": 12990,
-				"express": 12990
-			},
-			"400": {
-				"normal": 13990,
-				"express": 18990
-			}
-		}
-	},
-	"La Reina": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Lampa": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Las Condes": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Lo Barnechea": {
-		"zona": 3,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 5490,
-				"express": 7990
-			},
-			"50": {
-				"normal": 9990,
-				"express": 7990
-			},
-			"100": {
-				"normal": 8990,
-				"express": 11990
-			},
-			"300": {
-				"normal": 12990,
-				"express": 12990
-			},
-			"400": {
-				"normal": 13990,
-				"express": 18990
-			}
-		}
-	},
-	"Lo Espejo": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Lo Prado": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Macul": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Maipú": {
-		"zona": 3,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 5490,
-				"express": 7990
-			},
-			"50": {
-				"normal": 9990,
-				"express": 7990
-			},
-			"100": {
-				"normal": 8990,
-				"express": 11990
-			},
-			"300": {
-				"normal": 12990,
-				"express": 12990
-			},
-			"400": {
-				"normal": 13990,
-				"express": 18990
-			}
-		}
-	},
-	"María Pinto": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Melipilla": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Ñuñoa": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Padre Hurtado": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Paine": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Pedro Aguirre Cerda": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Peñaflor": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Peñalolén": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Pirque": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Providencia": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Pudahuel": {
-		"zona": 4,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"50": {
-				"normal": 11990,
-				"express": 8990
-			},
-			"100": {
-				"normal": 9990,
-				"express": 12990
-			},
-			"300": {
-				"normal": 14990,
-				"express": 14990
-			},
-			"400": {
-				"normal": 15990,
-				"express": 20990
-			}
-		}
-	},
-	"Puente Alto": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Quilicura": {
-		"zona": 4,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"50": {
-				"normal": 11990,
-				"express": 8990
-			},
-			"100": {
-				"normal": 9990,
-				"express": 12990
-			},
-			"300": {
-				"normal": 14990,
-				"express": 14990
-			},
-			"400": {
-				"normal": 15990,
-				"express": 20990
-			}
-		}
-	},
-	"Quinta Normal": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Recoleta": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Renca": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"San Bernardo": {
-		"zona": 4,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"50": {
-				"normal": 11990,
-				"express": 8990
-			},
-			"100": {
-				"normal": 9990,
-				"express": 12990
-			},
-			"300": {
-				"normal": 14990,
-				"express": 14990
-			},
-			"400": {
-				"normal": 15990,
-				"express": 20990
-			}
-		}
-	},
-	"San Joaquín": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"San José de Maipo": {
-		"zona": null,
-		"enabled": 0
-	},
-	"San Miguel": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"San Pedro": {
-		"zona": null,
-		"enabled": 0
-	},
-	"San Ramón": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	},
-	"Santiago": {
-		"zona": 1,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 3490,
-				"express": 4990
-			},
-			"50": {
-				"normal": 6990,
-				"express": 5990
-			},
-			"100": {
-				"normal": 6990,
-				"express": 9990
-			},
-			"300": {
-				"normal": 10990,
-				"express": 8990
-			},
-			"400": {
-				"normal": 9990,
-				"express": 12990
-			}
-		}
-	},
-	"Talagante": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Tiltil": {
-		"zona": null,
-		"enabled": 0
-	},
-	"Vitacura": {
-		"zona": 2,
-		"enabled": 1,
-		"tarifas": {
-			"10": {
-				"normal": 4490,
-				"express": 5990
-			},
-			"50": {
-				"normal": 7990,
-				"express": 6990
-			},
-			"100": {
-				"normal": 7990,
-				"express": 10990
-			},
-			"300": {
-				"normal": 11990,
-				"express": 10990
-			},
-			"400": {
-				"normal": 11990,
-				"express": 15990
-			}
-		}
-	}
+   "1": {
+      "10": {
+         "normal": 3490,
+         "express": 4990
+      },
+      "50": {
+         "normal": 4990,
+         "express": 6990
+      },
+      "100": {
+         "normal": 5990,
+         "express": 7990
+      },
+      "200": {
+         "normal": 6990,
+         "express": 9990
+      },
+      "300": {
+         "normal": 7990,
+         "express": 10990
+      },
+      "400": {
+         "normal": 8990,
+         "express": 11990
+      },
+      "500": {
+         "normal": 9990,
+         "express": 12990
+      }
+   },
+   "2": {
+      "10": {
+         "normal": 4490,
+         "express": 5990
+      },
+      "50": {
+         "normal": 5990,
+         "express": 7990
+      },
+      "100": {
+         "normal": 6990,
+         "express": 9990
+      },
+      "200": {
+         "normal": 7990,
+         "express": 10990
+      },
+      "300": {
+         "normal": 8990,
+         "express": 11990
+      },
+      "400": {
+         "normal": 10990,
+         "express": 14990
+      },
+      "500": {
+         "normal": 11990,
+         "express": 15990
+      }
+   },
+   "3": {
+      "10": {
+         "normal": 5490,
+         "express": 7990
+      },
+      "50": {
+         "normal": 6990,
+         "express": 9990
+      },
+      "100": {
+         "normal": 7990,
+         "express": 10990
+      },
+      "200": {
+         "normal": 8990,
+         "express": 11990
+      },
+      "300": {
+         "normal": 9990,
+         "express": 12990
+      },
+      "400": {
+         "normal": 12990,
+         "express": 16990
+      },
+      "500": {
+         "normal": 13990,
+         "express": 18990
+      }
+   },
+   "4": {
+      "10": {
+         "normal": 6990,
+         "express": 9990
+      },
+      "50": {
+         "normal": 8990,
+         "express": 11990
+      },
+      "100": {
+         "normal": 8990,
+         "express": 11990
+      },
+      "200": {
+         "normal": 9990,
+         "express": 12990
+      },
+      "300": {
+         "normal": 10990,
+         "express": 14990
+      },
+      "400": {
+         "normal": 14990,
+         "express": 19990
+      },
+      "500": {
+         "normal": 15990,
+         "express": 20990
+      }
+   }
 }
